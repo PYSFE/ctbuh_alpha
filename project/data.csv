@@ -1,0 +1,59 @@
+Incident ID,Floors,Primary type,Height,Country,Region,Year built,Construction,Facade type,Cavity,Face material,Core material,Insulation material,Cause,fatalities,injuries,Sprinklers,Under construction,Elevation
+1,63,Hotel,302,UAE,Middle East ,2008,Concrete,MCM,-1,Aluminium,PE,-1,Electric_3,0,16,Sprk_Not_known_0,No,3
+2,86,Residential,352,UAE,Middle East ,2011,Concrete,MCM,-1,Aluminium,PE,-1,Cooking_appliance_1-7,0,4,Sprk_Not_known_0,No,1
+3,86,Residential,352,UAE,Middle East ,2011,Concrete,MCM,-1,Aluminium,PE,-1,-1_0,0,0,Sprk_Not_known_0,No,1
+4,35,Residential,160,UAE,Middle East ,2009,Concrete,MCM,-1,Aluminium,PE,-1,Smoking_related_45-46,0,0,Sprk_Not_known_0,No,0
+5,13,Residential,57,UAE,Middle East ,-1,-1,MCM,-1,Aluminium,PE,-1,Electric_3,0,2,No_sprk_system,No,0
+6,18,Residential,55,France,Europe,1966,-1,MCM,-1,Aluminium,PE,-1,-1_0,1,6,No_sprk_system,No,34
+7,28,Residential,88,Russia,Europe,2013,-1,MCM,-1,-1,-1,-1,Electric_3,0,0,Sprk_Not_activated,No,121
+8,32,Hotel,110,USA,North America,1995,-1,EIFS,-1,Polymer,-2,EPS / XPS,Welding_40,0,13,Sprk_Not_known_0,No,649
+9,20,Hotel,76,USA,North America,1976,-1,EIFS,-1,-1,-2,PU,Natural_occurance_52,0,4,Sprk_Not_known_0,No,635
+10,26,Hotel,82,USA,North America,1973,-1,MCM,-1,Polymer,-1,EPS / XPS,Electric_3,0,0,Sprk_Not_activated,No,1373
+11,38,Residential,140,South Korea,Asia,2005,Steel,MCM,-1,Aluminium,PE,EPS / XPS,Electric_3,0,5,Sprk_Not_activated,No,5
+12,31,Hotel,159,China,Asia,-2,Steel,EIFS,-1,Zinc,-2,EPS / XPS,Fireworks_49,1,7,Sprk_Not_activated,Yes,44
+13,50,Office,203,China,Asia,2009,-1,-1,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,24
+14,16,Residential,-1,Azerbaijan,Asia,-1,-1,EIFS,-1,-1,-2,Foam,-1_0,15,63,No_sprk_system,No,-1
+15,9,Residential,-1,Azerbaijan,Asia,-1,-1,Other,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,-1
+16,42,Residential,152,Turkey,Turkey,2001,-1,-1,-1,-1,-1,-1,Electric_3,0,0,Sprk_Not_known_0,No,40
+17,41,Residential,161,UAE,Middle East ,2009,Concrete,MCM,-1,Aluminium,PE,-1,Smoking_related_45-46,0,0,No_sprk_system,No,7
+18,42,Hotel,131,USA,North America,2007,Concrete,MCM,-1,Aluminium,PE,EPS / XPS,-1_0,0,0,Sprk_Not_known_0,No,6
+19,11,Residential,-1,Hungary,Europe,1968,Concrete,EIFS,-1,Render,-2,EPS / XPS,-1_0,3,0,No_sprk_system,No,151
+20,8,Residential,-1,Canada,North America,1987,-1,EIFS,-1,-1,-2,Foam,-1_0,0,0,No_sprk_system,No,232
+21,10,Residential,-1,France,Europe,-1,-1,EIFS,-1,-1,-2,EPS / XPS,Fuel_related_56,7,11,No_sprk_system,No,-1
+22,7,Residential,-1,Germany,Europe,1996,Concrete,EIFS,None,Render,-2,EPS / XPS,-1_0,2,3,No_sprk_system,No,53
+23,5,Residential,-1,Germany,Europe,-1,-1,EIFS,-1,-1,-2,EPS / XPS,Fuel_related_56,0,0,No_sprk_system,No,-1
+24,11,Residential,-1,UK,Europe,1965,Concrete,Other,Ventilated,-1,-1,-1,Fuel_related_56,0,0,No_sprk_system,No,44
+25,13,Residential,-1,UK,Europe,1967,Concrete,Other,-1,Polymer,-1,-1,-1_0,1,5,No_sprk_system,No,8
+26,36,Residential,130,UAE,Middle East ,2011,Concrete,MCM,-1,Aluminium,-1,-1,Smoking_related_45-46,0,0,No_sprk_system,No,0
+27,76,Residential,288,UAE,Middle East ,2010,Concrete,-1,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,3
+28,76,Residential,288,UAE,Middle East ,2010,Concrete,-1,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,3
+29,20,Residential,-1,Japan,Asia,1972,Concrete,Other,-1,-1,Polymer,-1,-1_0,0,0,No_sprk_system,No,9
+30,7,Office,-1,USA,North America,-1,-1,MCM,-1,-1,-1,-1,Fuel_related_56,0,0,No_sprk_system,No,-1
+31,12,Residential,45,USA,North America,1983,-1,EIFS,-1,-1,-2,EPS / XPS,Fuel_related_56,0,0,No_sprk_system,No,-1
+32,8,Hotel,42,Australia,Oceania,1980,Concrete,EIFS,-1,-1,-2,Mineral wool,-1_0,0,0,No_sprk_system,No,160
+33,14,Residential,-1,UK,Europe,1975,-1,MCM,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,3
+34,21,Residential,72,Australia,Oceania,2012,Concrete,MCM,-1,Aluminium,PE,-1,Smoking_related_45-46,0,0,Sprk_Contained_2,No,13
+35,29,Residential,-1,UAE,Middle East ,2010,Concrete,-1,-1,-1,-1,-1,Smoking_related_45-46,0,0,No_sprk_system,No,11
+36,38,Residential,-1,Indonesia,Asia,-2,-1,-1,-1,-1,-1,-1,-1_0,0,1,No_sprk_system,Yes,4
+37,13,Residential,-1,Israel,Middle East ,-1,-1,Other,-1,-1,PE,-1,-1_0,0,0,No_sprk_system,No,30
+38,24,Residential,67,England,Europe,1974,Concrete,MCM,-1,Aluminium,PE,PIR,Electric_3,71,74,No_sprk_system,No,8
+39,7,Residential,-1,France,Europe,-1,-1,-1,-1,-1,-1,-1,-1_0,0,20,No_sprk_system,No,217
+40,17,Residential,-1,France,Europe,1970,-1,-1,-1,-1,-1,-1,-1_0,0,2,No_sprk_system,No,-1
+41,20,Residential,58,UK,Europe,1961,-1,-1,-1,-1,-1,-1,-1_0,0,8,No_sprk_system,No,62
+42,31,Residential,89,UK,Europe,1966,Steel,-1,-1,-1,-1,-1,-1_0,0,1,No_sprk_system,No,68
+43,22,Residential,-1,UK,Europe,1965,-1,EIFS,-1,Render,-2,Mineral wool,-1_0,0,0,No_sprk_system,No,-1
+44,16,Residential,-1,UK,Europe,1965,Concrete,EIFS,-1,Mineral fibre board,-2,Combustible,-1_0,0,0,No_sprk_system,No,-1
+45,36,Residential,-1,UAE,Middle East ,2015,Concrete,-1,-1,-1,-1,-1,-1_0,0,10,No_sprk_system,No,9
+46,24,Residential,100,Qatar,Middle East ,-2,-1,MCM,-1,Aluminium,PE,-1,-1_0,0,0,No_sprk_system,Yes,10
+47,32,Commecial,-1,China,Asia,2008,-1,-1,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,No,-1
+48,29,Residential,99,China,Asia,-2,-1,-1,-1,-1,-1,-1,Welding_40,0,0,No_sprk_system,Yes,124
+49,38,Residential,152,China,Asia,2009,-1,MCM,Ventilated,Aluminium,PE,EPS / XPS,Fireworks_49,0,0,No_sprk_system,No,45
+50,18,Residential,58,UK,Europe,1971,-1,EIFS,-1,Steel,-1,EPS / XPS,Electric_3,0,0,No_sprk_system,No,6
+51,15,Residential,45,UK,Europe,1970,-1,Other,Ventilated,-1,-1,-1,-1_0,0,0,No_sprk_system,No,34
+52,19,Office,72,Romania,Europe,2006,-1,MCM,-1,Aluminium,PE,-1,Natural_occurance_52,0,0,No_sprk_system,No,80
+53,11,Medical,-1,Turkey,Europe,2013,-1,-1,-1,-1,-1,-1,-1_0,0,0,No_sprk_system,Yes,76
+54,10,Residential,-1,Romania,Europe,-1,-1,EIFS,-1,-1,-2,EPS / XPS,-1_0,0,0,No_sprk_system,No,309
+55,10,Residential,-1,South Korea,Asia,2013,-1,Other,-1,-1,-1,-1,Electric_3,4,100,No_sprk_system,No,61
+56,25,Residential,86,Russia,Europe,2010,-1,Other,Ventilated,Polymer,-1,-1,Welding_40,0,0,No_sprk_system,No,199
+57,8,Commecial,-1,South Korea,Asia,2012,-1,EIFS,-1,Render,-2,Foam,Electric_3,29,29,Sprk_Not_activated,No,-1
+58,6,Commecial,-1,Moldova,Europe,2012,-1,-1,-1,-1,-1,-1,Electric_3,0,0,No_sprk_system,No,-1
